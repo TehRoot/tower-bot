@@ -30,9 +30,9 @@ public class main {
     static main obj = new main();
     public static void main(String[] args) {
 
-        String BotAuthKey = "xoxb-84817292611-OKm9wrcc9pPZfef1VgnRidLH";
-        //int keyId = 5941390;
-        //String vCode = "TMUabSeBYnBRswSKvXeTAPK373ajhnCPnBCEdSNpZrhhFSELNnVceTiGhNUF3V54";
+        String BotAuthKey = "";
+        //int keyId = ;
+        //String vCode = "";
 
         try {
             String filetest = obj.zipDecompress();
@@ -177,7 +177,7 @@ public class main {
                 Collection<NotificationText> notificationTexts = notificationTextsResponse.getAll();
                 for (NotificationText notificationText : notificationTexts) {
                     if (notificationText.getNotificationID() == ID) {
-                        long notificationID = 
+                        long notificationID =
                         String notificationBody = notificationText.getText();
                         Map notificationmap = (Map) yaml.load(notificationBody);
                         Iterator iterator = notificationmap.keySet().iterator();

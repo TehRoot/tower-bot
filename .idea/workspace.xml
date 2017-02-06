@@ -42,13 +42,13 @@
       <file leaf-file-name="main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39473686">
-              <caret line="179" column="46" selection-start-line="179" selection-start-column="46" selection-end-line="179" selection-end-column="46" />
+            <state vertical-scroll-proportion="0.42510122">
+              <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2454#2471#0" expanded="true" />
-                <element signature="e#2716#2724#0" expanded="true" />
-                <element signature="e#5708#5714#0" expanded="true" />
+                <element signature="e#2342#2359#0" expanded="true" />
+                <element signature="e#2604#2612#0" expanded="true" />
+                <element signature="e#5596#5602#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -240,7 +240,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.JavaDocs" value="true" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RunManager" selected="Application.main">
@@ -770,12 +770,12 @@
       <workItem from="1481723669136" duration="15887000" />
       <workItem from="1482270850634" duration="1046000" />
       <workItem from="1483760013771" duration="41058000" />
-      <workItem from="1485515043924" duration="28869000" />
+      <workItem from="1485515043924" duration="30478000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123952000" />
+    <option name="totallyTimeSpent" value="125561000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="178" y="23" width="1262" height="873" extended-state="0" />
@@ -843,9 +843,9 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2454#2471#0" expanded="true" />
-            <element signature="e#2716#2724#0" expanded="true" />
-            <element signature="e#5708#5714#0" expanded="true" />
+            <element signature="e#2342#2359#0" expanded="true" />
+            <element signature="e#2604#2612#0" expanded="true" />
+            <element signature="e#5596#5602#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -864,9 +864,9 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2454#2471#0" expanded="true" />
-            <element signature="e#2716#2724#0" expanded="true" />
-            <element signature="e#5708#5714#0" expanded="true" />
+            <element signature="e#2342#2359#0" expanded="true" />
+            <element signature="e#2604#2612#0" expanded="true" />
+            <element signature="e#5596#5602#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -973,13 +973,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39473686">
-          <caret line="179" column="46" selection-start-line="179" selection-start-column="46" selection-end-line="179" selection-end-column="46" />
+        <state vertical-scroll-proportion="0.42510122">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2454#2471#0" expanded="true" />
-            <element signature="e#2716#2724#0" expanded="true" />
-            <element signature="e#5708#5714#0" expanded="true" />
+            <element signature="e#2342#2359#0" expanded="true" />
+            <element signature="e#2604#2612#0" expanded="true" />
+            <element signature="e#5596#5602#0" expanded="true" />
           </folding>
         </state>
       </provider>
